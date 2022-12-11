@@ -1,0 +1,15 @@
+C:\Geekbrains\C#\Seminar6\task44\bin\Debug\net6.0\task44.exe
+C:\Geekbrains\C#\Seminar6\task44\bin\Debug\net6.0\task44.deps.json
+C:\Geekbrains\C#\Seminar6\task44\bin\Debug\net6.0\task44.runtimeconfig.json
+C:\Geekbrains\C#\Seminar6\task44\bin\Debug\net6.0\task44.dll
+C:\Geekbrains\C#\Seminar6\task44\bin\Debug\net6.0\task44.pdb
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.csproj.AssemblyReference.cache
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.AssemblyInfoInputs.cache
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.AssemblyInfo.cs
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.csproj.CoreCompileInputs.cache
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.dll
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\refint\task44.dll
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.pdb
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\task44.genruntimeconfig.cache
+C:\Geekbrains\C#\Seminar6\task44\obj\Debug\net6.0\ref\task44.dll
